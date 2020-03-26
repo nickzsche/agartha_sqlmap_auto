@@ -1,8 +1,12 @@
 ![cyber-warrior.org](https://i.hizliresim.com/fUlSLg.jpg)
+
 **AGARTHA CYBER WARRIOR AUTO SQLMAP**
+
 ***instagram.com/nickzsche***
 
+
 ENGLISH AND TURKISH INSTRUCTIONS FOR USE
+
 TÜRKÇE VE İNGİLİZCE KULLANIM TALİMATLARI
 
 Modules:
