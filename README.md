@@ -6,14 +6,20 @@ ENGLISH AND TURKISH INSTRUCTIONS FOR USE
 TÜRKÇE VE İNGİLİZCE KULLANIM TALİMATLARI
 
 Modules:
-**1.Sql Attack:  Add Site Name and sites sql injection control.
-2.Multi Sql Attack: Auto Sql Scanner.
-3. 3.Dork Scan: Auto dork scan and sql injection control.
-4. 4.Shell Upload: Shows the installation directory for Shell.**
 
-***Contents/İçindekiler:
-1.0 Türkçe Kullanım Talimatları
-1.1 English Directions For Use***
+**1.Sql Attack:  Add Site Name and sites sql injection control.**
+
+2.**Multi Sql Attack: Auto Sql Scanner.**
+
+3. **3.Dork Scan: Auto dork scan and sql injection control.**
+
+4. **4.Shell Upload: Shows the installation directory for Shell.**
+
+***Contents/İçindekiler:**
+
+**1.0 Türkçe Kullanım Talimatları**
+
+**1.1 English Directions For Use***
 
 **1.0 Türkçe Kullanım Talimatları:**
 Termux, Linux ve Windows için:
