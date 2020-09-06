@@ -1,6 +1,5 @@
-![cyber-warrior.org](https://i.hizliresim.com/fUlSLg.jpg)
 
-**AGARTHA CYBER WARRIOR AUTO SQLMAP**
+**AGARTHA AUTO SQLMAP**
 
 ***instagram.com/nickzsche***
 
