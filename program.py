@@ -8,7 +8,7 @@ print("""
 ----------2.Multi Sql Attack----------
 ----------3.Dork Scan-----------------
 ----------4.Shell Upload--------------
----Cyber Warrior Lojistik /Agartha/---
+--------------Agartha-----------------
 --------------------------------------
 """)
 secim = input(" ")
